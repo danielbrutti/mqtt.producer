@@ -1,0 +1,5 @@
+/home/danielbrutti/workspace/mateam/mqtt.producer/src/main/java/com/mateam/mqtt/producer/message/MqttMessageProducerFactory.java
+/home/danielbrutti/workspace/mateam/mqtt.producer/src/main/java/com/mateam/mqtt/producer/config/FactoryConfiguration.java
+/home/danielbrutti/workspace/mateam/mqtt.producer/src/main/java/com/mateam/mqtt/producer/Application.java
+/home/danielbrutti/workspace/mateam/mqtt.producer/src/main/java/com/mateam/mqtt/producer/message/MessageProducer.java
+/home/danielbrutti/workspace/mateam/mqtt.producer/src/main/java/com/mateam/mqtt/producer/MqttMessageProcessor.java

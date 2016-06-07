@@ -1,0 +1,6 @@
+com/mateam/mqtt/producer/message/MqttMessageProducerFactory.class
+com/mateam/mqtt/producer/Application$1.class
+com/mateam/mqtt/producer/config/FactoryConfiguration.class
+com/mateam/mqtt/producer/MqttMessageProcessor.class
+com/mateam/mqtt/producer/Application.class
+com/mateam/mqtt/producer/message/MessageProducer.class

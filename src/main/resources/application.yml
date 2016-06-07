@@ -1,0 +1,11 @@
+mqtt:
+  broker:
+    url: tcp://localhost:1883
+#   secure: true
+#   user: user
+#   password: pass
+#   cert: certificate.crt
+  producer:
+    topic: messages/
+    execution:
+      delay: 5000     #Time in milliseconds between messages
